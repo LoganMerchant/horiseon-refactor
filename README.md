@@ -10,3 +10,8 @@ The client (Horiseon) has asked for their landing page to be updated for accessi
 * Added empty `alt` attributes for all decorative photos in the `Content` and `Benefits` sections.
 * Removed unnecessary HTML elements such as `</a>` and `class="seo"`.
 * Consolidated CSS rules where necessary.
+
+![alt text](./assets/images/header-hero.png "Header and Hero")
+![alt text](./assets/images/content-benefits.png "Content and Benefits")
+
+[I'm an inline-style link with title](https://loganmerchant.github.io/horiseon-refactor/ "Horiseon")
