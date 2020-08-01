@@ -8,4 +8,4 @@ The client (Horiseon) has asked for their landing page to be updated for accessi
 * Fixed the navigation elements in the header.
 * Removed the footer of the page to more closely resemble the client's mock-up.
 * Added empty `alt` attributes for all decorative photos in the <!-- Content --> and <!-- Benefits --> sections.
-* 
+* Removed unnecessary HTML elements such as `</a>` and `class="seo"`.
