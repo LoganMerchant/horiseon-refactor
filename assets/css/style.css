@@ -1,13 +1,16 @@
+/* Universal */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Body */
 body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,6 +44,7 @@ body {
     margin-left: 25px;
 }
 
+/* Hero */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +193,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
